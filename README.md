@@ -1,10 +1,11 @@
 <h1 align='center'>Machine Learning Research Reproducibility Guide Book</h1>
 
 <p align="center">
-  <b>Keshigeyan Chandrasegaran</b><br>
-  <b>Singapore University of Technology and Design</b><br>
-  <b><i>(For internal use only)</i></b>
+  <b>Keshigeyan Chandrasegaran<br/>
+  Singapore University of Technology and Design<br/>
+  <i>(For internal use only)</i></b>
 </p>
+
 
 
 
@@ -88,17 +89,23 @@ A large portion of machine learning code repositories do not include concrete in
 
 - Clear splits of data used for training, validation and test should be published. Many code repositories do this by including a txt/ csv file describing the splits.
 
+  
 
+___
 
 ### Proposed Research Method
 
 This section is generally deterministic. 
 
 - The code should include clear implementation of proposed method (i.e.: architecture,  loss functions, evaluation metrics). 
+
 - Complexity details (space, time and sample size) should be included.
+
 - Any diagrams associated with proposed method can be included here. 
 
+  
 
+___
 
 ### Hardware Environment
 
@@ -122,7 +129,9 @@ With increasing data volumes and distributed training strategies, it is vital to
 
 - Authors should include clear details on GPU/ TPU configuration used for running the experiments.
 
+  
 
+___
 
 ### Software Environment
 
@@ -161,13 +170,17 @@ With increasing data volumes and distributed training strategies, it is vital to
 
 - Containers are a way to package software in a format that can run isolated on a shared operating system. Authors can alternatively publish/ distribute docker images with source code, so that users do not need to worry about setting up dependencies.
 
+  
 
+___
 
 ### License
 
 For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software. So please add the corresponding license file to your code repository. This [tool](https://choosealicense.com/) can help you understand how to license your code.
 
 
+
+___
 
 ### Results
 
@@ -182,9 +195,12 @@ For your repository to truly be open source, you'll need to license it so that o
 #### Qualitative Results
 
 - Any quantitative results with relevant diagrams should be included. 
+
 - Results that could not be included in the original publication (i.e.: due to page limit etc), can be included here.
 
+  
 
+___
 
 ### Hyper-parameters
 
@@ -194,7 +210,9 @@ Generally there are multiple stochastic elements associated with machine learnin
 
 - Clear details on seed values to reproduce the results should be included.
 
+  
 
+___
 
 ### Time
 
@@ -212,19 +230,29 @@ Information on how long it takes to run inference need to be included (i.e.: Obj
 
 
 
+___
+
 ### Code directory structure
 
 Most code repositories do not have a standard structure. Hence, we propose to follow a standard code directory structure to make reproducibility easier. (We also do understand that it may not be possible to follow this structure for all projects)
 
 - /assets: contains GitHub readme resources (i.e. : images used in readme.md)
+
 - /src : contains all source code files
+
 - /data: contains required data
+
 - /config: contains configuration files (if any)
+
 - /output: contains any results or outputs
+
 - requirements.txt: contains all software dependencies to run the code.
+
 - LICENSE: License file
 
+  
 
+___
 
 ### How to run the code?
 
@@ -232,17 +260,23 @@ This is the most important section. Authors should clearly describe the steps on
 
 
 
+___
+
 ### Availability of pretrained weights
 
 Authors should mention whether pretrained weights are made available and describe the means of obtaining them.
 
 
 
+___
+
 ### References
 
 Any references to code/ data obtained from from sources need to be citied here. (Not publication references).
 
 
+
+___
 
 ### Citation
 
@@ -258,11 +292,15 @@ Acknowledgements enable you to thank all those who have helped in carrying out t
 
 
 
+___
+
 ### Conference Materials
 
 If the work was part of a conference, links to materials such as video presentations, poster and blogs can be included.
 
 
+
+___
 
 ### FAQ
 
