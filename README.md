@@ -92,7 +92,11 @@ A large portion of machine learning code repositories do not include concrete in
 
 ### Proposed Research Method
 
-This section is generally deterministic. The code should include clear implementation of proposed method (i.e.: architecture,  loss functions, evaluation metrics). Any supplementary materials associated with proposed method can be included here. 
+This section is generally deterministic. 
+
+- The code should include clear implementation of proposed method (i.e.: architecture,  loss functions, evaluation metrics). 
+- Complexity details (space, time and sample size) should be included.
+- Any diagrams associated with proposed method can be included here. 
 
 
 
@@ -171,6 +175,7 @@ For your repository to truly be open source, you'll need to license it so that o
 
 - All quantitative results with relevant diagrams should be included. In many instances, including graphics from the corresponding scientific work can help here.
 - Results that could not be included in the original publication (i.e.: due to page limit etc), can be included here.
+- In many instances, final results are obtained by averaging over a number pf independent executions of the algorithm. Authors should include these information as well.
 
 
 
@@ -183,7 +188,7 @@ For your repository to truly be open source, you'll need to license it so that o
 
 ### Hyper-parameters
 
-Generally there are multiple stochastic elements associated with machine learning research. Hence precise information on hyper-parameters and randomization control settings need to be included. 
+Generally there are multiple stochastic elements associated with machine learning research. Hence precise information on final values of all hyper-parameters, methods used to obtain them and randomization control settings need to be included. 
 
 #### Randomization Control
 
