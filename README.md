@@ -25,7 +25,41 @@ This Guide book is written with the intention of helping researchers and enginee
 
 ## Table of Contents
 
-[TOC]
+- [Required Components](#required-components)
+  * [Data](#data)
+    + [Datasets](#datasets)
+    + [Data preprocessing techniques](#data-preprocessing-techniques)
+    + [Data Splits](#data-splits)
+  * [Proposed Research Method](#proposed-research-method)
+  * [Hardware Environment](#hardware-environment)
+    + [Computing Type](#computing-type)
+    + [CPU](#cpu)
+    + [GPU/ TPU](#gpu--tpu)
+  * [Software Environment](#software-environment)
+    + [OS](#os)
+    + [Programming Languages](#programming-languages)
+    + [Framework](#framework)
+    + [Additional Software](#additional-software)
+    + [Dependencies](#dependencies)
+    + [Docker Images](#docker-images)
+  * [License](#license)
+  * [Results](#results)
+    + [Quantitative Results](#quantitative-results)
+    + [Qualitative Results](#qualitative-results)
+  * [Hyper-parameters](#hyper-parameters)
+    + [Randomization Control](#randomization-control)
+  * [Time](#time)
+    + [Training Time](#training-time)
+    + [Inference Time](#inference-time)
+  * [Code directory structure](#code-directory-structure)
+  * [How to run the code?](#how-to-run-the-code-)
+  * [Availability of pretrained weights](#availability-of-pretrained-weights)
+  * [References](#references)
+  * [Citation](#citation)
+- [Optional Components](#optional-components)
+  * [Acknowledgements](#acknowledgements)
+  * [Conference Materials](#conference-materials)
+  * [FAQ](#faq)
 
 
 
