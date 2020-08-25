@@ -21,6 +21,8 @@ This Guide book is written with the intention of helping researchers and enginee
 
 *Note: Please feel free to contribute/ correct any mistakes. If you are interested in this understanding more, please refer to this talk on [Machine Learning Reproducibility, NeurIPS 2019](https://slideslive.com/38923790/machine-learning-reproducibility-an-update-from-the-neurips-2019-reproducibility-cochairs).* 
 
+
+
 ## Table of Contents
 
 [TOC]
