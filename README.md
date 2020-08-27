@@ -20,7 +20,7 @@ Predominant portion of contemporary machine learning research faces reproducibil
 
 This Guide book is written with the intention of helping researchers and engineers working in machine learning domains to publish reproducible research. We break research components into two for reproducibility purposes. 1) **Compulsory/ required components** and 2) **Optional components**. They are clearly explained in the upcoming sections. 
 
-*Note: Please feel free to contribute/ correct any mistakes. If you are interested in this understanding more, please refer to this talk on [Machine Learning Reproducibility, NeurIPS 2019](https://slideslive.com/38923790/machine-learning-reproducibility-an-update-from-the-neurips-2019-reproducibility-cochairs).* 
+*Note: Please feel free to contribute/ correct any mistakes. If you are interested in understanding more, please refer to this talk on [Machine Learning Reproducibility, NeurIPS 2019](https://slideslive.com/38923790/machine-learning-reproducibility-an-update-from-the-neurips-2019-reproducibility-cochairs).* 
 
 
 
