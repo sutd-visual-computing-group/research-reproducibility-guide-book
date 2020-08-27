@@ -1,17 +1,9 @@
 <h1 align='center'>Machine Learning Research Reproducibility Guide Book</h1>
 
 <p align="center">
-  <b>Keshigeyan Chandrasegaran<br/>
-  Singapore University of Technology and Design<br/>
+  <b>Singapore University of Technology and Design<br/>
   <i>(For internal use only)</i></b>
 </p>
-
-
-
-
-
-
-
 Predominant portion of contemporary machine learning research faces reproducibility and replication crisis. Though both terms are used interchangeably in the literature, we understand reproducibility as the gateway for replication. 
 
 > Reproducibility is the ability to obtain closeness of the agreement between the results of measurements of the same measurand, carried out by using **identical methodology and identical artifacts** described in a scientific work. 
@@ -264,7 +256,7 @@ ___
 
 ### Availability of pretrained weights
 
-Authors should mention whether pretrained weights are made available and describe the means of obtaining them.
+Authors should mention whether pretrained weights are made available and describe the means of obtaining them. Having a single centralized cloud location to publish all the models belonging to the organization is often useful.
 
 
 
