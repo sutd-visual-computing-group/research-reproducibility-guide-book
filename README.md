@@ -304,6 +304,14 @@ If the work was part of a conference, links to materials such as video presentat
 
 ___
 
+### Contact Information
+
+Authors can optionally include any contact information for feedback or discussion.
+
+
+
+___
+
 ### FAQ
 
 Authors can also add a FAQ section to answer commonly asked queries.
