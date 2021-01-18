@@ -1,4 +1,4 @@
-<h1 align='center'>Machine Learning Research Reproducibility Guide Book</h1>
+<h1 align='center'>Machine Learning Research<br/> Reproducibility Guide Book</h1>
 
 <p align="center">
     <b>Visual Computing Group</br>Singapore University of Technology and Design<br/></b>
