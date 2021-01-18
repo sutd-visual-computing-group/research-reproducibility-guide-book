@@ -1,9 +1,11 @@
 <h1 align='center'>Machine Learning Research Reproducibility Guide Book</h1>
 
 <p align="center">
-  <b>Singapore University of Technology and Design<br/>
-  <i>(For internal use only)</i></b>
+    <b>Visual Computing Group</br>Singapore University of Technology and Design<br/></b>
 </p>
+
+***[The following materials are compiled from various sources such as textbooks, lecture materials, conference talks, web resources and are shared for research purposes only. In the interest of brevity, every source is not cited. The compiler of these materials gratefully acknowledges all such sources. Please contact keshigeyan@sutd.edu.sg for any queries.]***
+
 Predominant portion of contemporary machine learning research faces reproducibility and replication crisis. Though both terms are used interchangeably in the literature, we understand reproducibility as the gateway for replication. 
 
 > Reproducibility is the ability to obtain closeness of the agreement between the results of measurements of the same measurand, carried out by using **identical methodology and identical artifacts** described in a scientific work. 
